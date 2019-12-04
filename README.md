@@ -6,6 +6,14 @@
 * [**push (wypchnij)**][ref-push] zmiany z lokalnej kopii do swojego forka repozytorium na GitHubie.
 * [**pull request (stwórz propozycję zmian)**][pull-request] do oryginalnego repozytorium.
 
+## Materiały
+
+### Lektura obowiązkowa
+* [Ebook o podstawach html/css, lektura obowiązkowa, będę odpytywał!](http://ferrante.pl/books/html/)
+### Materiały dodatkowe
+* [Wstęp do HTML/CSS, kurs po polsku.](https://pl.khanacademy.org/computing/computer-programming/html-css)
+* [HTML, CSS step by step, dobry kurs z tłumaczeniem.](https://the-awwwesomes.gitbooks.io/html-css-step-by-step/content/pl/index.html)
+
 ## Uwagi
 
 * [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/)
