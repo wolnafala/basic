@@ -1,0 +1,45 @@
+Frontend to technologia odpowiedzialna za wygląd i zachowanie strony.
+To co widzi użytkownik kiedy jak wpisze adres strony internetowe i kliknie enter.
+
+Frontend is the technology responsible for the appearance and behavior of the site.
+What the user sees when he enters the website address and clicks enter.
+
+
+Backend  to czego nie widać po wejściu na stronę internetową, czyli całe jej zaplecze techniczne.
+Użytkownicy stron nie widzą panelu administracyjnego i całej struktury strony stworzonej przez webmastera.
+To właśnie to, co niewidoczne, ale niezbędne do funkcjonowania strony nazywamy backendem.
+
+
+Backend is what you do not see after entering the website, i.e. all its technical facilities.
+Website users cannot see the administrative panel and the entire website structure created by the webmaster.
+This is what is invisible, but necessary for the functioning of the page is called a backend.
+
+
+
+
+
+Repozytorium kodu to podstawowe narzędzie programisty. Umożliwia ono automatyczne wykrywanie zmian w plikach i automatyczne dokonywanie update’ów.
+Każdy update repozytorium kodu jest opisywany wiadomością, a historia zmian oraz ich autorzy są odpowiednio wyszczególnieni.
+Dzięki temu możliwe jest łatwe znalezienie potencjalnie występujących problemów oraz przywrócenie kodu do poprzedniego stanu.
+
+The code repository is a basic programmer's tool.
+It allows automatic detection of file changes and automatic updates.
+Each update of the code repository is covered by a message, and the history of changes and their authors are properly specified.
+This allows you to easily find potential problems and restore the code to its previous state.
+
+
+Linux is not Unix, but it is a Unix-like operating system. Linux system is derived from Unix and it is a continuation of the basis of Unix design.
+Linux distributions are the most famous and healthiest example of the direct Unix derivatives. BSD (Berkley Software Distribution) is also an example of a Unix derivative.
+
+Linux nie jest Uniksem, ale jest systemem operacyjnym podobnym do Uniksa.
+System Linux wywodzi się z Uniksa i jest kontynuacją podstaw projektowania Uniksa.
+Dystrybucje Linuksa są najbardziej znanym i najzdrowszym przykładem bezpośrednich pochodnych uniksowych.
+BSD (Berkley Software Distribution) jest także przykładem pochodnej uniksowej.
+
+
+Git is a version control system. Its originator and creator was Linus Torvalds (we wrote about him, setting the Linux operating system).
+Git was created as a tool to support the development of the Linux kernel
+
+Git to system kontroli wersji. Jego pomysłodawcą i twórcą był Linus Torvalds (pisaliśmy o nim, predstawiając system operacyjny Linux).
+Git powstał jako narzędzie wspomagające rozwój jądra Linux.
+
