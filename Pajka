@@ -1,0 +1,9 @@
+Frontend - the user side. It is what user sees and interacts with after the browser sends the request to the server. Based on HTML, CSS and Java Script.
+
+Backend - the server side. Works with a database, stores and fetches data from it.  
+
+Repository - stores all the files and versions of the program. Can be private or shared. Helps in detecting the errors and changes tracking.
+
+GitHub - platform for storing repositories. 
+
+Unix is a computer operating system and Linux is a Unix-like operating system derived from Unix.
